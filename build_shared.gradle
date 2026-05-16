@@ -1,4 +1,3 @@
-import net.minecraftforge.forge.tasks.CleanProperties
 
 apply plugin: 'eclipse'
 apply plugin: 'idea'
